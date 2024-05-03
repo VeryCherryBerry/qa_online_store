@@ -12,6 +12,10 @@
   status: fail
   
 - summary: |
+    Проверка пагинации
+  status: fail  
+  
+- summary: |
     Проверка поиска по ключевым словам на английском языке
   status: pass
   
