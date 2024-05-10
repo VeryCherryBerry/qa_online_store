@@ -19,8 +19,16 @@
 -   Корзина с товарами сохраняется даже после того, как пользователь покинул страницу
 
 ### Файлы в репозитории
+<<<<<<< HEAD
 -   `requirements.yml` - требования
 -   `test-cases.yml` - тест-кейсы
 -   `testing-report.yml` - отчеты о тестировании
 -   `bugreports.yml` - баг-репорты
 -   `regress-report.yml` - регресс и новые баг-репорты
+=======
+`requirements.yml` - требования
+`test-cases.yml` - тест-кейсы
+`testing-report.yml` - отчеты о тестировании
+`bugreports.yml` - баг-репорты
+`regress-report.yml` - регресс и новые баг-репорты
+>>>>>>> e24f2dd8ece7451624e8343a9e8fa6dbb347fca5
